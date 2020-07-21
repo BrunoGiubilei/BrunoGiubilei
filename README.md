@@ -6,3 +6,5 @@
 - 📫 How to reach me: @brunogiubilei on Twitter;
 - 😄 Pronouns: a word that can function by itself as a noun phrase and that refers either to the participants in the discourse;
 - ⚡ Fun fact: _null_;
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrunoGiubilei)](https://github.com/anuraghazra/github-readme-stats)
